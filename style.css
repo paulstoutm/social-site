@@ -1,0 +1,205 @@
+*{
+    box-sizing: border-box;
+}
+
+#header{
+    width: 850px;
+   background-color: rgb(102, 88, 75);
+height: 300px;
+border: 1px black solid;
+margin: 0 auto;
+}
+
+#column1
+{
+    height: 800px;
+    width: 328px;
+border-color: darkblue solid;
+background-color: rgb(175, 149, 110);
+position: relative;
+bottom: 50px;
+  }
+  #column-container{
+      margin: 0 auto;
+      width: 850px;
+  }
+#column2{
+    height: 800px;
+    width: 512px;
+    border: rgb(18, 18, 20) 3px solid;
+position: relative;
+left: 338px;
+bottom: 850px;
+background-image: url("https://caseytrees.org/wp-content/uploads/2017/10/baldcypress_05.jpg");
+
+}
+#column2{
+    opacity: 0.2;
+    filter: alpha(opacity=80); /* msie */
+    
+    
+    
+}
+
+#profile-pic{
+    width:150px;
+    height:150px;
+    background-color: rgb(175, 149, 110);
+    border: 2px  black solid;
+    position: relative;
+    left: 532px;
+    top: 322px;
+    border-radius: 3px;
+    z-index: 1;
+
+}
+#About-us{
+    width: 300px;
+height: 120px;
+background-color: rgb(71, 67, 53);
+border: whitesmoke 2px ;
+border-style: solid;
+}
+p{
+    background-color: none;
+    position: relative;
+    bottom: 22px;
+   text-align: center;
+   color: white;
+   margin: 20px 0;
+   font-size: 130%;
+font-family: serif;
+-webkit-text-stroke-width: .2px;
+  -webkit-text-stroke-color: black 
+  
+  
+
+}
+#header{
+    
+}
+#mainline span{
+    padding: 0 5px;
+    color: black;
+    font-size: 130%;
+position: relative;
+left: 1025px;
+top: -50px;
+    background-color: white;
+   text-align: center;
+   color: black;
+   text-shadow: white;
+   margin: 40px 0;
+   font-size: 140%;
+font-style: italic;
+font-weight: bold;
+font-variant: small-caps;
+-webkit-text-stroke-width: .3px;
+  -webkit-text-stroke-color: green;
+    border: rgb(177, 161, 145) solid 1px;
+}
+.Like{
+    font-variant: 120%;
+    padding-left: 30px white;
+    position: relative;
+    margin-left: 10px rgb(177, 161, 145);
+    margin-right: 10px;
+    border-radius: 5px;
+    
+    
+}
+h1{
+    font-size: 45px;
+    color: white;
+    -webkit-text-stroke: 1.5px black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-variant: small-caps;
+position: relative;
+left: 187px;
+top: 160px;
+}
+p .ATN{
+    font-size: 20px;
+    font-variant: lowercase;
+    font-style: normal;
+}
+.site-address{
+    -webkit-text-stroke-width: .5px;
+  -webkit-text-stroke-color: black;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: bold;
+  color: white;
+  top: 130px;
+  left: -75px;
+  position: relative;
+  
+}
+.Follow{
+    border-radius: 5px;
+    
+    
+}
+.Message{
+    border-radius: 5px;
+}
+.dots{
+    border-radius: 5px;
+    
+    
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+.About{
+    top: -10px;
+    position: relative;
+}
+#white-bottom{
+    width: 850px;
+    height: 40px;
+    position: relative;
+    left: 519px;
+    top: -70px;
+    background-color: white;
+    border: rgb(102, 88, 75) 1px solid;
+}
+body{
+    background-color: rgb(228, 247, 247);
+}
+#secondary-line span{
+    position: relative;
+    font-size: 25px;
+    left: 700px;
+    top: -30px;
+    z-index: 1;
+}
+#secondary-line .annuals{
+    position: relative;
+    left: 850px;
+
+}
+#secondary-line .more{
+position: relative;
+left: 790px;
+border-right: 1px solid rgba(104, 96, 72, 0.322);
+padding-right: 10px;
+}
+
+#secondary-line .photos{
+    position: relative;
+    left: 750px;
+    border-right: 1px solid rgba(104, 96, 72, 0.322);
+    padding-right: 10px;
+    }
+
+#little-profile{
+width: 50px;
+height: 50px;
+display: block;
+position: relative;
+left: 10px;
+top: 10px;
+z-index: 1;
+opacity: 1;
+}
